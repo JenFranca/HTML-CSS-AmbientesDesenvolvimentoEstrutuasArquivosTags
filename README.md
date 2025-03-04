@@ -15,4 +15,3 @@ React: desenvolva aplicações web usando JSX e Hooks
 A partir do zero: HTML e CSS para projetos web
 
 Alura: https://cursos.alura.com.br/course/html-css-ambiente-arquivos-tags?preRequirementFrom=windows-forms-csharp-barra-ferramentas-classes-json
-
